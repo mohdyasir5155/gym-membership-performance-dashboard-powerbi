@@ -10,7 +10,7 @@
 | **Tools** | Power BI Desktop, DAX, Power Query, Git |
 | **Author** | Yasir Sheikh |
 
-> **Dashboard preview:** `![Dashboard Overview](images/Cover.png`
+![Dashboard Overview](images/Cover.png)
 
 ---
 
