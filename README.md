@@ -2,6 +2,22 @@
 
 **An interactive Power BI dashboard that turns gym membership data into clear answers on member growth, retention, revenue, and branch performance, so management can decide where to act.**
 
+
+
+## 30-Second Summary 
+
+| Question | Answer |
+|---|---|
+| **What problem does it solve?** | Gym management needs a fast, reliable view of memberships, retention, and revenue to decide where to focus marketing and operations. |
+| **What did I build?** | A multi-page Power BI dashboard with KPI cards, trend analysis, segment breakdowns, and interactive filters. |
+| **What can it answer?** | How many members are active, who is churning, which plans and branches perform best, and how revenue trends over time. |
+| **What does it prove about me?** | I can clean data, build a data model, write DAX, and present insights visually in a way that supports business decisions. |
+
+
+![Dashboard Overview](Images/Cover.png)
+
+---
+
 | | |
 |---|---|
 | **Role demonstrated** | Data Analyst / BI Analyst (entry level) |
@@ -10,18 +26,6 @@
 | **Tools** | Power BI Desktop, DAX, Power Query, Git |
 | **Author** | Yasir Sheikh |
 
-![Dashboard Overview](Images/Cover.png)
-
----
-
-## 30-Second Summary (for Recruiters)
-
-| Question | Answer |
-|---|---|
-| **What problem does it solve?** | Gym management needs a fast, reliable view of memberships, retention, and revenue to decide where to focus marketing and operations. |
-| **What did I build?** | A multi-page Power BI dashboard with KPI cards, trend analysis, segment breakdowns, and interactive filters. |
-| **What can it answer?** | How many members are active, who is churning, which plans and branches perform best, and how revenue trends over time. |
-| **What does it prove about me?** | I can clean data, build a data model, write DAX, and present insights visually in a way that supports business decisions. |
 
 ---
 
